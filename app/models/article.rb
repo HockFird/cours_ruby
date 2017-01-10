@@ -1,10 +1,5 @@
 class Article < ApplicationRecord
-	def change
-		create_table :articles do |t|
-			t.string :title
-			t.text :text
 
-			t.timestamps null :false
-		end
+	validates :title, presence: true,
+				length: { minimum: 5 }
 	end
-end
