@@ -21,5 +21,12 @@ test:
   database: db/test.sqlite3
 
 production:
-  <<: *default
-  database: db/production.sqlite3
+  # <<: *default
+  # database: db/production.sqlite3
+  adapter: postgresql
+  host : ec2-54-235-177-45.compute-1.amazonaws.com
+  database : d3lljl603pf06d
+  username : iykbxlrixxynbx
+  password : 5dd27055d401b13ba0b0c32a3f0509cb77edcadd508396bbe6baa14713305f45
+
+# [Le lien vers production] : https://data.heroku.com/datastore/b08732bb-67a8-4d05-bb05-edbf1eda9612
