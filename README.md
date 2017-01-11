@@ -26,6 +26,7 @@ Things you may want to cover:
 [Lien vers site HEROKU] https://desolate-citadel-12813.herokuapp.com/
 [Lien vers Dashboard HEROKU] https://dashboard.heroku.com/apps/desolate-citadel-12813
 [Lien vers dépôt GIT] https://github.com/HockFird/cours_ruby
+[Lien vers RUBY on RAILS] http://guides.rubyonrails.org/getting_started.html
 
 COMMANDE DANS TERMINAL : 
 2 Terminals
