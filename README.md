@@ -28,8 +28,8 @@ Things you may want to cover:
 [Lien vers dépôt GIT] https://github.com/HockFird/cours_ruby
 [Lien vers RUBY on RAILS] http://guides.rubyonrails.org/getting_started.html
 
-COMMANDE DANS TERMINAL : 
---> cd desktop/local_drive/dev/ruby/monapp
+• COMMANDE DANS TERMINAL : 
+cd desktop/local_drive/dev/ruby/monapp
 
 • 2 Terminals :
 - Dans dossier monapp --> rails server (Ctrl + C pour quitter)
