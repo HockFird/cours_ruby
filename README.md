@@ -29,6 +29,8 @@ Things you may want to cover:
 [Lien vers RUBY on RAILS] http://guides.rubyonrails.org/getting_started.html
 
 COMMANDE DANS TERMINAL : 
-2 Terminals
+--> cd desktop/local_drive/dev/ruby/monapp
+
+• 2 Terminals :
 - Dans dossier monapp --> rails server (Ctrl + C pour quitter)
 - Dans dossier monapp --> git push origin && git push heroku
