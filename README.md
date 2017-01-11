@@ -26,4 +26,8 @@ Things you may want to cover:
 [Lien vers site HEROKU] https://desolate-citadel-12813.herokuapp.com/
 [Lien vers Dashboard HEROKU] https://dashboard.heroku.com/apps/desolate-citadel-12813
 [Lien vers dépôt GIT] https://github.com/HockFird/cours_ruby
-Dans dossier monapp --> git push origin && git push heroku
+
+COMMANDE DANS TERMINAL : 
+2 Terminals
+- Dans dossier monapp --> rails server (Ctrl + C pour quitter)
+- Dans dossier monapp --> git push origin && git push heroku
